@@ -3624,7 +3624,7 @@ export const PokedexText: {[k: string]: PokedexText} = {
 		name: "Astrolotl",
 	},
 	aquanatheus: {
-		name: "Aquanatheus"
+		name: "Aquanatheus",
 	},
 	pokestarsmeargle: {
 		name: "Pokestar Smeargle",
